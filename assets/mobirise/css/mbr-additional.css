@@ -11,12 +11,10 @@ body {
 iframe{
     
     margin-bottom: 150px;
-    background-size: 100vw 100vh;
     background-attachment: fixed;
     margin: 0; 
     background-color: lemonchiffon;
-    min-height: 100vh;
-    margin-top: 260p
+    margin-top: 260px;
 }
 
 .display-1 {
