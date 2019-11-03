@@ -47,14 +47,6 @@ input, submit, button{
     cursor: pointer
 }
 
-@media (max-width:480px){
-    
-    form{
-        
-        width: 100%
-    }
-}
-
 select {
 
     
@@ -67,17 +59,6 @@ select {
     
 }
 
-div{
-    
-    color: royalblue;
-    text-align: center;
-    margin: auto;
-    font-size: 30px;
-    margin-bottom: 20px;
-    
-    
-    
-}
 
 
 
