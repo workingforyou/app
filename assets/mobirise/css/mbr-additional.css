@@ -1,5 +1,98 @@
 @import url(https://fonts.googleapis.com/css?family=Francois+One:400&display=swap);
 
+form{
+    
+    width: 450px;
+    margin: auto;
+    background-color: aquamarine;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 40px;
+    border-radius: 7px;
+    margin-bottom: 800px;
+    
+}
+
+h2{
+    
+    color: #678458;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+    margin-bottom: 20px;
+    
+    
+}
+
+
+
+
+
+input, submit, button{
+    
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    background-color: darkcyan
+}
+
+#boton{
+    
+    background: #12345A;
+    color: #fff;
+    padding: 20px;
+        
+
+}
+
+#boton1{
+    margin-top: 100px;
+    background-color:darkgreen;
+    color: #fff;
+    padding: 20px;
+    
+    
+}
+
+#boton:hover{
+    
+    cursor: pointer
+}
+
+@media (max-width:480px){
+    
+    form{
+        
+        width: 100%
+    }
+}
+
+select {
+
+    
+    color: black;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+    margin-bottom: 20px;
+    
+    
+}
+
+div{
+    
+    color: royalblue;
+    text-align: center;
+    margin: auto;
+    font-size: 30px;
+    margin-bottom: 20px;
+    
+    
+    
+}
+
 
 
 
