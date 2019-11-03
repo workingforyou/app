@@ -7,7 +7,7 @@ form{
     background-color: aquamarine;
     padding: 10px 20px;
     box-sizing: border-box;
-    margin-top: 40px;
+    margin-top: 400px;
     border-radius: 7px;
     margin-bottom: 800px;
     
@@ -35,7 +35,7 @@ input, submit, button{
     padding: 7px;
     box-sizing: border-box;
     font-size: 17px;
-    background-color: darkcyan
+    background-color: white
 }
 
 #boton{
