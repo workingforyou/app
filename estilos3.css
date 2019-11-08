@@ -1,4 +1,4 @@
-form{
+#formulario {
     
     
     width: 450px;
@@ -9,19 +9,6 @@ form{
     margin-top: 40px;
     border-radius: 7px;
     margin-bottom: 800px;
-}
-
-body{
-    
-    margin-bottom: 150px;
-    background-size: 100vw 100vh;
-    background-attachment: fixed;
-    margin: 0; 
-    background-color: lemonchiffon;
-    min-height: 100vh;
-    margin-top: 260px
-    
-    
 }
 
 #boton3 {
