@@ -2,6 +2,35 @@
 
 
 
+form{
+    
+    
+    width: 450px;
+    margin: auto;
+    background-color: indianred;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 40px;
+    border-radius: 7px;
+    margin-bottom: 800px;
+}
+
+#boton3 {
+    
+    width: 100%;
+    margin-top: 70px;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 17px;
+    background-color: darkcyan
+    
+    
+    
+}
+
+
+
 
 
 body {
