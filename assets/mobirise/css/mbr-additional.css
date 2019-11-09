@@ -7,7 +7,7 @@ form{
     
     width: 450px;
     margin: auto;
-    background-color: #81E319;
+    background-color: white;
     padding: 10px 20px;
     box-sizing: border-box;
     margin-top: 100px;
@@ -31,8 +31,8 @@ form{
 
 #menu222{
     
-    margin-top: 80px;
-    margin-bottom:80px;
+    margin-top: 20px;
+    margin-bottom:20px;
     background-color: red;
 
 }
@@ -40,8 +40,8 @@ form{
 
 #h234{
     
- margin-top: 70px;
- margin-bottom: 70px;
+ margin-top: 50px;
+ margin-bottom: 30px;
     
     
     
