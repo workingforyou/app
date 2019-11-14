@@ -3,7 +3,7 @@
 $usuario="root";
 $password=""; 
 $servidor="localhost";
-$basededatos="prueba";
+$basededatos="prueba1";
 
 $conexion= mysqli_connect($servidor,$usuario,"") or die ("Error con el servidor de la base de datos");
 
@@ -13,7 +13,7 @@ $nombre=$_POST['nombre'];
 $apellido=$_POST['apellido'];
 $email=$_POST['email'];
 
-$sql="INSERT INTO datos VALUES('$nombre','$apellido','$email')";
+$sql="INSERT INTO datos1 VALUES('$nombre','$apellido','$email')";
 
 $ejecutar=mysqli_query($conexion, $sql);
 
