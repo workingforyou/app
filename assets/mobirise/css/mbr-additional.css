@@ -6205,3 +6205,108 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rHZeuyPvOk {
+  padding-top: 75px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rHZeuyPvOk .line {
+  background-color: #000000;
+  color: #000000;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rHZeuyPvOk .section-text {
+  padding: 2rem 0;
+}
+.cid-rHZeuyPvOk .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rHZeuyPvOk .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rHZf2Enl5p {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/seguro-hogar-jardin-1500x700.jpg");
+}
+.cid-rHZf2Enl5p H2 {
+  color: #000000;
+}
+.cid-rHZfc2o48Y {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rHZfc2o48Y .counter-container {
+  color: #767676;
+}
+.cid-rHZfc2o48Y .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rHZfc2o48Y .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rHZfc2o48Y .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
+.cid-rHZgtJQS47 {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/5-datos-interesantes-sobre-el-sol-1-655x368.jpg");
+}
+.cid-rHZgtJQS47 H2 {
+  color: #000000;
+}
+.cid-rHZgIw6PfG {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rHZgIw6PfG .counter-container {
+  color: #767676;
+}
+.cid-rHZgIw6PfG .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-rHZgIw6PfG .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-rHZgIw6PfG .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
