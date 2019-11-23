@@ -139,7 +139,40 @@
   <input type="checkbox" name="a29" value="Más de 5 horas"> Más de 5 horas<br>
     
     
-     
+     <head>
+      <title> Enviar  </title>
+
+<script>
+jQuery(function($){
+ 
+  $('#ajouter').click(function(e){
+      e.preventDefault();
+      var content = "";
+      $('.actuality').append(content);
+  });
+ 
+});
+var t = document.getElementById('yourText').value;
+</script>
+
+<div class="_16ve _7i31">
+          <ul class="_16vg _1oxv">
+            <li class="_5xmp">
+              <div>
+                <div class="_6a _4mvf _fk5" id="js_1p">
+                  <span class="_m _5g_l">
+                    <a  role="button" aria-pressed="false" rel="ignore">
+                      <div uiconfig="[object Object]" class="_m_1 _1pnt" data-tooltip-delay="500">
+                        <i class="_4a0a img sp_OGGLuxGda8S sx_782ab3 fas fa-images"></i>
+                        <div class="_2aha">Photo/Video</div>
+                      </div>
+                      <form method="POST" action="upload.php" enctype="multipart/form-data" id="form1" runat="server">
+                        <div class="_3jk">
+                          <input accept="video/*,  video/x-m4v, video/webm, video/x-ms-wmv, video/x-msvideo, video/3gpp, video/flv, video/x-flv, video/mp4, video/quicktime, video/mpeg, video/ogv, .ts, .mkv, image/*, image/heic, image/heif" containerclassname="_5g_r" multiple="" name="file" display="inline" role="button" tabindex="0" data-testid="media-sprout" type="file" class="_n _5f0v"  id="imgInp" id="js_1o">
+                        </div>
+                      </form>
+                    </a>
+
   
     
     
